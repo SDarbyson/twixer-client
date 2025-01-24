@@ -2,7 +2,7 @@
 
 # Getting Started/Demo Information
 
-Welcome! If you'd like to see out our application hosted on Heroku, please visit [twixer.xyz](https://twixer-client-7fc12e0d4cd5.herokuapp.com/). This is a full stack web application that was inspired by Twitter/X where users can post and interact with content. 
+Welcome! If you'd like to see out our application hosted on Heroku, please visit [twixer.xyz](https://twixer-client-7fc12e0d4cd5.herokuapp.com/) **THIS LINK IS NO LONGER FUNCTIONAL**. This is a full stack web application that was inspired by Twitter/X where users can post and interact with content. 
 
 You can login with the "demouser" credentials for both fields. This account has been set up to follow several users and has an example post to showcase the different feeds and options on the site.
 
